@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* Grid */
+.grid-cell {
+    border: 1px solid #000000;
+    width: 20px;
+    height: 20px;
+}
+  
+.grid {
+    background-color: #43ad4b;
+}
+  
+/* Other styles... */  
